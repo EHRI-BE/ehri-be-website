@@ -1,7 +1,7 @@
 ---
-title: Creating a Belgian National Holocaust Research Infrastructure
-description: Welcome to the Belgian Holocaust Research Infrastructure
-linkTitle: Home
+title: Vers la création de l'infrastructure nationale belge sur la Shoah
+description: Bienvenu(e) à l'infrastructure nationale belge sur la Shoah
+linkTitle: Accueil
 
 ---
 

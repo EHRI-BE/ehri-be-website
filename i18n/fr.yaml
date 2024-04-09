@@ -1,0 +1,82 @@
+
+about:
+  other: À propos
+
+contact:
+  other: Contacter
+
+services:
+  other: Nos services
+
+partners_funders:
+  other: Partenaires/Organisme de financement
+
+partners:
+  other: Partenaires
+
+fellowships_training:
+  other: Bourses et formation
+
+document_blog:
+  other: Blog documentaire
+
+portal:
+  other: Portail de l'EHRI
+
+digital_tools_guide:
+  other: Guide sur les outils numériques
+
+podcast:
+  other: Podcast
+
+learn_more:
+  other: Savoir plus
+
+read_more:
+  other: Lire plus
+
+latest:
+  other: Dernière nouvelles
+
+ehri_services:
+  other: Les services proposés par l'EHRI
+
+below_are_some:
+  other: Vous trouverez ci-dessous quelques services innovants créés par l'EHRI.
+
+more_about_mission:
+  other: En savoir plus sur la mission et la vision de l'EHRI
+
+go_to:
+  other: Aller sur {{ .Name }}
+
+# Contact page
+contact_send_message:
+  other: Envoyez-nous un message
+
+contact_form_name:
+  other: Nom
+
+contact_form_email:
+  other: E-mail
+
+contact_form_subject:
+  other: Sujet
+
+contact_form_message:
+  other: Laissez-nous un message...
+
+contact_form_send:
+  other: Envoyez un message
+
+contact_coordinators:
+  other: Coordinateurs sur {{ .Title }}
+
+contact_social: # NB: need to quote this value due to the `{{`
+  other: "{{ .Title }} sur les réseaux sociaux"
+
+contact_thanks:
+  other: Merci pour votre message
+
+contact_back:
+  other: Retourner au formulaire
