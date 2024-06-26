@@ -3,11 +3,15 @@ title: Partners
 type: partners
 ---
 
-{{< intro >}}
+<!-- {{< intro >}}
 27 Organisations in 17 Countries Worldwide
 {{< /intro >}}
 
 Currently, EHRI (EHRI-3 and EHRI-PP combined) has 27 partners, representing archives, libraries, museums and research institutions.
 The project also relies on a large network of cooperating partners and many other individuals and organisations in the broad fields of Holocaust studies and digital humanities.
 Here you can find an overview of the EHRI partners, first phase (2010-2015) and EHRI partners, second phase (2015-2019).
-These are our current partners (EHRI-PP and EHRI-3), located in 17 different countries:
+These are our current partners (EHRI-PP and EHRI-3), located in 17 different countries: -->
+
+EHRI-BE brings together experts on Holocaust research, archival sources and digital and AI tools from universities, research centers, museums, educational institutions, archives and libraries.
+
+EHRI-BE has nine partners, and its activities are coordinated by Kazerne Dossin and the State Archives of Belgium/CegeSoma.

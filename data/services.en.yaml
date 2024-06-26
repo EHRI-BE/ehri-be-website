@@ -16,34 +16,26 @@
   content: |
     The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: editions
+  title: Online editions
+  url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    The EHRI Online Editions consist of annotated digitized documents from various sources gathered around a theme, and are a new way of presenting digital archival content. A new edition is published at irregular intervals.
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: geospatial_repository
+  title: Geospatial Repository
+  url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    The EHRI Geospatial Repository facilitates research driven by spatial and geographic approaches by providing access to data about Holocaust-related places and spaces.
 
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: ehri_kg
+  title: EHRI's Knowledge Graph
+  url: https://lod.ehri-project-test.eu/
   icon: lab_profile
   image: doklady-1.png
   content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
-
-- id: editions_dr
-  title: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
-  icon: lab_profile
-  image: doklady-1.png
-  content: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    The EHRI's Knowledge Graph provides access to information in the EHRI Portal as Linked Open Data (LOD). You can browse different EHRI's entities (e.g., country reports, archival institutions descriptions, archival descriptions, etc.) as linked data, and you can link to them from you own data.

@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <section class="page-content partners">
+
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+
+        <h2>Coordinators</h2>
+        {{ partial "coordinators" . }}
+
+        <h2>Partners</h2>
+        {{ partial "partners" . }}
+    </section>
+{{ end }}

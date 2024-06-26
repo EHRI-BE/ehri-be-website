@@ -5,6 +5,8 @@ linkTitle: Home
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta quis elit nec vestibulum. Nam ipsum eros, gravida sit amet nisi ac, posuere euismod urna. Quisque sit amet mi porttitor, efficitur orci eget, pretium enim. In posuere arcu ac leo convallis, eget molestie nunc placerat. Curabitur eu imperdiet neque. Aenean vitae dictum tortor. Vivamus ac volutpat enim, in convallis mi. Curabitur quis lacus auctor, semper sem vel, tincidunt velit. Pellentesque varius hendrerit turpis, a dictum odio volutpat a. In mollis nisl nisl, sit amet tincidunt neque bibendum in. Maecenas fringilla nunc a nisl tristique, vitae tincidunt enim gravida. Integer eget maximus felis.
+The European Holocaust Research Infrastructure (EHRI) is a European research infrastructure that supports and promotes Holocaust research, commemoration and education on a transnational level.
 
-Vestibulum sodales, nisl vel fringilla sollicitudin, neque elit rutrum tortor, sit amet euismod sem odio lacinia ligula. Nullam tempor nunc diam, vel egestas nisl ornare eu. Curabitur dictum in velit et molestie. Morbi tempus eleifend lorem sed suscipit. Nam ut est eu libero congue gravida. Etiam nec nisi sed ex tempor iaculis vel ac nisi. Curabitur tempor justo id quam rhoncus commodo. Sed facilisis quam eu tellus rhoncus, tempus semper tortor commodo.
+EHRI-BE is the national node representing Belgium within this distributed research infrastructure. EHRI-BE is composed of different institutions located in Belgium with expertise in Holocaust documentation, research, commemoration and education at the different levels of the Belgian federal state. 
+
+Modern, democratic Europe developed out of the ashes of Auschwitz, making the Holocaust a defining legacy of European history. To fully grasp the depths of Europe’s darkest period, it is crucial that we continue to learn about, commemorate and research the Holocaust.
