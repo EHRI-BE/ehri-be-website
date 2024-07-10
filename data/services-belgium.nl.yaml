@@ -1,0 +1,17 @@
+---
+
+- id: kd_beeldbank
+  title: Kazerne Dossin's Image Bank
+  url: https://beeldbank.kazernedossin.eu/portal/media
+  icon: meeting_room
+  image: cards-still-1.png
+  content: |
+    The image bank comprises more than 1.5 million documents, bundled in collections. Collections can be compiled in different ways. For example, there are family archives about one person or one family, and documents from organisations, the occupying forces or various government services. The overview of what has been digitised so far can also be consulted online.
+
+- id: kd_bibliotheek
+  title: Kazerne Dossin's Library
+  url: https://bibliotheek.kazernedossin.eu/
+  icon: article
+  image: names-2.png
+  content: |
+    Online catalogue of over 9000 books available at Kazerne Dossin.

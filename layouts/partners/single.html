@@ -4,10 +4,10 @@
         <h1>{{ .Title }}</h1>
         {{ .Content }}
 
-        <h2>Coordinators</h2>
+        <h2>{{ i18n "coordinators" }}</h2>
         {{ partial "coordinators" . }}
 
-        <h2>Partners</h2>
+        <h2>{{ i18n "partners" }}</h2>
         {{ partial "partners" . }}
     </section>
 {{ end }}
