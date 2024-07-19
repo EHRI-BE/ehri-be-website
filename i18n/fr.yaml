@@ -9,7 +9,7 @@ services:
   other: Nos services
 
 partners_funders:
-  other: Partenaires/Organisme de financement
+  other: Partenaires/Organismes de financement
 
 partners:
   other: Partenaires
@@ -24,7 +24,7 @@ document_blog:
   other: Blog documentaire
 
 portal:
-  other: Portail de l'EHRI
+  other: Portail EHRI
 
 digital_tools_guide:
   other: Guide sur les outils numériques
@@ -33,7 +33,7 @@ podcast:
   other: Podcast
 
 learn_more:
-  other: Savoir plus
+  other: Pour en savoir plus
 
 read_more:
   other: Lire plus
@@ -42,13 +42,13 @@ latest:
   other: Dernière nouvelles
 
 ehri_services:
-  other: Les services proposés par l'EHRI
+  other: Les services proposés par EHRI
 
 below_are_some:
-  other: Vous trouverez ci-dessous quelques services innovants créés par l'EHRI.
+  other: Vous trouverez ci-dessous quelques services innovants créés par EHRI.
 
 more_about_mission:
-  other: En savoir plus sur la mission et la vision de l'EHRI
+  other: En savoir plus sur la mission et la vision d'EHRI
 
 go_to:
   other: Aller sur {{ .Name }}
