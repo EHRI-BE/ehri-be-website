@@ -1,0 +1,17 @@
+---
+
+- id: sab-cegesoma
+  title: Les Archives de l’État en Belgique et le Centre d’Étude Guerre et Société (AEB-CEGESOMA)
+  url: https://www.cegesoma.be/
+  image: state_archives_logo_en.png
+  content: |
+    Les Archives de l’État en Belgique (AEB) sont un établissement scientifique fédéral qui fait partie du Service public fédéral de programmation politique scientifique (BELSPO). Les Archives de l’État ont pour mission de veiller à la bonne conservation des documents d’archives produits et gérés par les autorités de l’État. Elles disposent de 20 dépôts répartis à travers le pays, dont le Centre d’Étude Guerre et Société (CEGESOMA). Situé à Bruxelles, ce centre étudie les guerres et les conflits du XXe siècle et leur impact sur la Belgique. Le CEGESOMA collecte des archives et de la documentation, mène des recherches et organise des événements académiques et publics. Avec les autres dépôts qui composent les Archives de l’État, il conserve des collections d’archives essentielles pour l’étude de l’Holocauste et a participé à l’élaboration d’instruments de recherche (numériques), d’inventaires et d’autres outils pour garantir l’accessibilité de ces collections.
+    
+    Le AEB-CEGESOMA est une institution partenaire de l’EHRI depuis son tout premier projet en 2010 et a joué un rôle important dans le développement de cette infrastructure de recherche internationale, en apportant des contributions significatives aux projets de l’EHRI ainsi qu’à ses efforts pour s’établir en tant qu’infrastructure de recherche permanente (Consortium pour une infrastructure européenne de recherche, ERIC). En collaboration avec Kazerne Dossin, AEB-CEGESOMA coordonne les activités de l’EHRI-BE.
+- id: kazerne-dossin
+  title: |
+    Kazerne Dossin: Memorial, museum and research centre on Holocaust and Human Rights
+  url: https://kazernedossin.eu/en/
+  image: kd_logo.svg
+  content: |
+    Something about

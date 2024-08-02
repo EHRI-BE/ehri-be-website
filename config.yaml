@@ -146,6 +146,25 @@ languages:
       weight: 3
       languageName: French
       menu:
+        main:
+          - identifier: about
+            pageRef: about
+            weight: 20
+          - identifier: partners
+            pageRef: partners
+            weight: 30
+          - identifier: services
+            pageRef: services
+            weight: 40
+          - identifier: services-belgium
+            pageRef: services-belgium
+            weight: 50
+          - identifier: news
+            pageRef: news
+            weight: 60
+          - identifier: contact
+            pageRef: contact
+            weight: 70
         services:
           - identifier: document_blog
             pageRef: 'https://blog.ehri-project.eu/'
@@ -155,6 +174,16 @@ languages:
             weight: 30
           - identifier: podcast
             pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
+            weight: 40
+        footer:
+          - identifier: about
+            pageRef: about
+            weight: 20
+          - identifier: partners
+            pageRef: partners
+            weight: 30
+          - identifier: fellowships_training
+            pageRef: training
             weight: 40
   de:
     title: Belgien

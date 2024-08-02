@@ -1,10 +1,12 @@
 ---
-title: Vers la création de l'infrastructure nationale belge sur la Shoah
-description: Bienvenu(e) à l'infrastructure nationale belge sur la Shoah
+title: Une infrastructure nationale belge de recherche sur l’Holocauste
+description: Bienvenu(e) à l’infrastructure nationale belge sur l’Holocauste
 linkTitle: Accueil
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porta quis elit nec vestibulum. Nam ipsum eros, gravida sit amet nisi ac, posuere euismod urna. Quisque sit amet mi porttitor, efficitur orci eget, pretium enim. In posuere arcu ac leo convallis, eget molestie nunc placerat. Curabitur eu imperdiet neque. Aenean vitae dictum tortor. Vivamus ac volutpat enim, in convallis mi. Curabitur quis lacus auctor, semper sem vel, tincidunt velit. Pellentesque varius hendrerit turpis, a dictum odio volutpat a. In mollis nisl nisl, sit amet tincidunt neque bibendum in. Maecenas fringilla nunc a nisl tristique, vitae tincidunt enim gravida. Integer eget maximus felis.
+L’European Holocaust Research Infrastructure (EHRI) est une infrastructure de recherche européenne qui soutient et encourage la recherche sur l’Holocauste ainsi que sa commémoration et son enseignement au niveau transnational.
 
-Vestibulum sodales, nisl vel fringilla sollicitudin, neque elit rutrum tortor, sit amet euismod sem odio lacinia ligula. Nullam tempor nunc diam, vel egestas nisl ornare eu. Curabitur dictum in velit et molestie. Morbi tempus eleifend lorem sed suscipit. Nam ut est eu libero congue gravida. Etiam nec nisi sed ex tempor iaculis vel ac nisi. Curabitur tempor justo id quam rhoncus commodo. Sed facilisis quam eu tellus rhoncus, tempus semper tortor commodo.
+L’EHRI-BE est l’unité nationale représentant la Belgique au sein de cette infrastructure de recherche composite. L’EHRI-BE est composée de différentes institutions situées en Belgique, spécialisées dans la documentation et la recherche sur l’Holocauste, ainsi que dans sa commémoration et son enseignement aux différents niveaux de l’État fédéral belge.
+
+L’Europe moderne et démocratique s’est construite sur les cendres d’Auschwitz, faisant de l’Holocauste un événement déterminant de l’histoire européenne. Afin de saisir toute la portée de la période la plus sombre de l’Europe, il est essentiel que nous continuions à nous renseigner sur l’Holocauste, à la commémorer et à mener des recherches à son sujet.

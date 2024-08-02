@@ -48,7 +48,7 @@ below_are_some:
   other: Vous trouverez ci-dessous quelques services innovants créés par EHRI.
 
 more_about_mission:
-  other: En savoir plus sur la mission et la vision d'EHRI
+  other: En savoir plus sur la mission et la vision d’EHRI
 
 go_to:
   other: Aller sur {{ .Name }}
