@@ -1,0 +1,38 @@
+---
+
+- id: amsab 
+  title: AMSAB-Institute for Social History
+  image: logo_amsab.png
+  url: https://www.amsab.be/en/
+- id: archiefpunt 
+  title: Archiefpunt
+  image: archiefpunt.svg
+  url: https://archiefpunt.be/
+- id: archive-antwerp 
+  title: Archive of the City of Antwerp
+  image: felix_logo.png
+  url: https://felixarchief.antwerpen.be/
+- id: auschwitz-belgium
+  title: Auschwitz Foundation Belgium
+  image: logo_auschwitz.jpg
+  url: https://auschwitz.be/en/
+- id: fondation-memoire-contemporaine 
+  title: Fondation de la Mémoire Contemporaine
+  image: logo_FMC.png
+  url: https://fmc-seh.be/
+- id: huis-belgisch-franse-verzet 
+  title: Huis Belgisch-Franse verzet
+  image: logo_huis-belgisch-franse-verzet.jpg
+  url: https://www.hbfv.be/
+- id: jewish-studies-antwerp 
+  title: Institute of Jewish Studies – University of Antwerp
+  image: university_antwerp.svg
+  url: https://www.uantwerpen.be/en/research-groups/ijs/
+- id: musee-résistances
+  title: Musée des Résistances – Museum van het Verzet
+  image: logo_musee_resistance.jpg
+  url: https://www.museumresistance.be/
+- id: zentrum-ostbelgische-geschichte 
+  title: Zentrum für Ostbelgische Geschichte
+  image: logo_zog.jpg
+  url: https://www.geschichte.be/
