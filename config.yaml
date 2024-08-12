@@ -12,14 +12,14 @@ params:
   twitterUrl: 'https://twitter.com/EHRIproject'
 
   # `contactName` and `contactEmail` are used to populate the contact page.
-  contactName: EHRI BE
-  contactEmail: feedback@ehri-uk.org
+  contactName: EHRI-BE
+  contactEmail: ehri.belgium@gmail.com
 
   # `contactForm` is a boolean that determines whether the contact form should be shown.
   contactForm: true
 
   # `contactFormUrl` is the POST action of the form that will be used to send the contact email.
-  contactFormUrl: dummy
+  contactFormUrl: https://api.staticforms.xyz/submit
 
   # `funders` is a list of funding bodies, each with a name, logo and an optional URL.
   # If the URL is not provided, the logo will not be linked. The logo should be in the

@@ -13,21 +13,22 @@
                 {{ else }}
                 <h2>{{ i18n "contact_send_message" }}</h2>
                 <form class="form contact-form" method="post" action="{{ relLangURL .Site.Params.contactFormUrl }}">
+                    <input type="hidden" name="accessKey" value="206cc708-fe4e-4133-9140-51d3883fe8ee">
                     <div class="form-group">
                         <label for="form-name">{{ i18n "contact_form_name" }} *</label>
-                        <input type="text" name="name" id="form-name" placeholder="{{ i18n "contact_form_name" }}" required/>
+                        <input type="text" name="$name" id="form-name" placeholder="{{ i18n "contact_form_name" }}" required/>
                     </div>
                     <div class="form-group">
                         <label for="form-email">{{ i18n "contact_form_email" }} *</label>
-                        <input type="email" name="email" id="form-email" placeholder="{{ i18n "contact_form_email" }}" required/>
+                        <input type="email" name="$email" id="form-email" placeholder="{{ i18n "contact_form_email" }}" required/>
                     </div>
                     <div class="form-group">
                         <label for="form-subject">{{ i18n "contact_form_subject" }} *</label>
-                        <input type="text" name="subject" id="form-subject" placeholder="{{ i18n "contact_form_subject" }}" required/>
+                        <input type="text" name="$subject" id="form-subject" placeholder="{{ i18n "contact_form_subject" }}" required/>
                     </div>
                     <div class="form-group">
                         <label for="form-message">{{ i18n "contact_form_message" }} *</label>
-                        <textarea rows="8" name="message" id="form-message" placeholder="{{ i18n "contact_form_message" }}" required></textarea>
+                        <textarea rows="8" name="$message" id="form-message" placeholder="{{ i18n "contact_form_message" }}" required></textarea>
                     </div>
                     <button class="button-primary" type="submit">{{ i18n "contact_form_send" }}</button>
                 </form>
