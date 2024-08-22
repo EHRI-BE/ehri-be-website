@@ -61,7 +61,7 @@ contact_form_name:
   other: Nom
 
 contact_form_email:
-  other: E-mail
+  other: Email
 
 contact_form_subject:
   other: Sujet
@@ -70,7 +70,7 @@ contact_form_message:
   other: Laissez-nous un message...
 
 contact_form_send:
-  other: Envoyez un message
+  other: Envoyer
 
 contact_coordinators:
   other: Coordinateurs sur {{ .Title }}

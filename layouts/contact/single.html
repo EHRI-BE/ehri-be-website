@@ -30,6 +30,7 @@
                         <label for="form-message">{{ i18n "contact_form_message" }} *</label>
                         <textarea rows="8" name="$message" id="form-message" placeholder="{{ i18n "contact_form_message" }}" required></textarea>
                     </div>
+                    <input type="text" name="honeypot" style="display: none;">
                     <button class="button-primary" type="submit">{{ i18n "contact_form_send" }}</button>
                 </form>
                 {{ end }}

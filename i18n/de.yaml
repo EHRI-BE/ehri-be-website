@@ -11,7 +11,7 @@ coordinators:
   other: Koordinatoren
 
 contact:
-  other: Contact
+  other: Kontaktieren
 
 services:
   other: Dienstleistungen
@@ -60,28 +60,28 @@ go_to:
 
 # Contact page
 contact_send_message:
-  other: Send us a message
+  other: Senden Sie uns eine Nachricht
 
 contact_form_name:
   other: Name
 
 contact_form_email:
-  other: Email
+  other: E-Mail
 
 contact_form_subject:
-  other: Subject
+  other: Betreff
 
 contact_form_message:
-  other: Leave us a message...
+  other: Hinterlassen Sie uns eine Nachricht...
 
 contact_form_send:
-  other: Send message
+  other: Nachricht senden
 
 contact_coordinators:
-  other: Coordinators for {{ .Title }}
+  other: Die Koordinatoren von {{ .Title }}
 
 contact_social:
-  other: "{{ .Title }} on social media"
+  other: "{{ .Title }} in sozialen Netzwerken"
 
 contact_thanks:
   other: Thanks for your message

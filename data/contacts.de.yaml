@@ -1,0 +1,14 @@
+---
+
+- id: ehri-be
+  name: EHRI-BE
+  email: feedback@ehri-uk.org
+  image: ehri-logo.svg
+- id: kazernedossin
+  name: Kazerne Dossin
+  email: info@kazernedossin.eu
+  image: kd_logo.svg
+- id: statearchives
+  name: Staatsarchiv / CegeSoma
+  email: something@somewhere.be
+  image: state_archives_logo_en.png  
