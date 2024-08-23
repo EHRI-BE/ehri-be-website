@@ -2,7 +2,7 @@
 
 - id: ehri-be
   name: EHRI-BE
-  email: feedback@ehri-uk.org
+  email: ehri.belgium@gmail.com
   image: ehri-logo.svg
 - id: kazernedossin
   name: Kazerne Dossin
@@ -10,5 +10,5 @@
   image: kd_logo.svg
 - id: statearchives
   name: Rijksarchief / CegeSoma
-  email: something@somewhere.be
+  email: cegesoma@arch.be
   image: state_archives_logo_en.png  
