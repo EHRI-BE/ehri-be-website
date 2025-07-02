@@ -1,6 +1,6 @@
 ---
 title: "Latest News"
-description: "Latest EHRI-UK news articles"
+description: "Latest EHRI-BE news articles"
 ---
 
 {{< intro >}}
