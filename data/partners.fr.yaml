@@ -1,5 +1,9 @@
 ---
 
+- id: jmb
+  title: Musée Juif de Belgique
+  image: mjb_logo.jpg
+  url: https://www.mjb-jmb.org/en/
 - id: amsab 
   title: AMSAB-Institute for Social History
   image: logo_amsab.png

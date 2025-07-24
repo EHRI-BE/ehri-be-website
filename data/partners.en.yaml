@@ -1,5 +1,15 @@
 ---
 
+- id: jmb
+  title: Jewish Museum of Belgium
+  image: mjb_logo.jpg
+  url: https://www.mjb-jmb.org/en/
+  content: |
+    The Jewish Museum of Belgium is a publicly recognised private institution. The museum's mission is to collect, preserve, study and promote – through exhibitions, publications and events, items and documents from collections that reflect the diversity of life – traditions and the history of Jewish communities in Belgium over time, but primarily since the 18th century. With over 16,000 items – including Judaica, artworks, rare books, textiles, posters, and everyday objects – the museum is home to a rich and varied collection. It also houses a library of 13,500 general and reference books, 4,500 Yiddish language books, a photo library with 6,500 entries and an archive department.
+    
+    The archive department manages nearly 300 linear meters of documents, dating from the 19th century to the present day. These archives include private family collections; records from Jewish cultural, political and social associations; and documents related to the museum itself. A key resource is the “Register of Jews,” entrusted to the museum by the Jewish Social Service. It contains 45,000 records which were digitised by Kazerne Dossin and can be accessed via a searchable database that covers 56,000 registrations, making it an essential tool for Holocaust research.
+
+    The museum has been involved in the European Holocaust Research Infrastructure (EHRI) since 2015 and joined the EHRI-BE consortium in 2024.
 - id: amsab 
   title: AMSAB-Institute for Social History
   image: logo_amsab.png
