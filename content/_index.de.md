@@ -1,6 +1,6 @@
 ---
 title: Schaffung einer nationalen belgischen Holocaust-Forschungsinfrastruktur
-description: Welcome to the Belgian Holocaust Research Infrastructure
+#description: Welcome to the Belgian Holocaust Research Infrastructure
 linkTitle: Home
 
 ---

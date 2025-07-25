@@ -30,6 +30,11 @@ params:
     - name: EHRI is funded by the European Commission
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
+  meta:
+    title: "EHRI-BE"
+    image: images/ehri-logo-large.png
+    description: >-
+      EHRI-BE is the national node representing Belgium within the European Holocaust Research Infrastructure (EHRI), composed of different institutions located in Belgium with expertise in Holocaust documentation, research, commemoration and education at the different levels of the Belgian federal state.
 
 markup:
   # Configure syntax highlighting for the examples on the `training` page
