@@ -13,6 +13,12 @@ params:
   linkedinUrl: 'https://www.linkedin.com/company/ehri-european-holocaust-research-infrastructure'
   blueskyUrl: 'https://bsky.app/profile/ehri-project.eu'
 
+  # reference an image here (`images/example.svg`) to replace the header logo
+  headerLogo: # -
+
+  # reference an image here (`images/example.svg`) to replace the footer logo
+  footerLogo: # -
+
   # `contactName` and `contactEmail` are used to populate the contact page.
   contactName: EHRI-BE
   contactEmail: ehri.belgium@gmail.com
@@ -30,6 +36,20 @@ params:
     - name: EHRI is funded by the European Commission
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
+
+  # Site metadata for social media cards and search engines.
+  meta:
+    # `title` is full the name of the site.
+    title: "EHRI-UK | The UK National Holocaust Research Infrastructure"
+
+    # `image` is a reference to an image in the `static/` folder
+    # that will be used to generate previews for social media sites.
+    image: images/ehri-logo-large.png
+
+    # `description` should be a short summary of the site.
+    description: >-
+      EHRI-UK is the UK national node of the European Holocaust Research Infrastructure (EHRI),
+      a European Union funded project which is a permanent pan-European organisation.
 
 markup:
   # Configure syntax highlighting for the examples on the `training` page
