@@ -1,6 +1,6 @@
 ---
 title: Une infrastructure nationale belge de recherche sur l’Holocauste
-description: Bienvenu(e) à l’infrastructure nationale belge sur l’Holocauste
+#description: Bienvenu(e) à l’infrastructure nationale belge sur l’Holocauste
 linkTitle: Accueil
 
 ---

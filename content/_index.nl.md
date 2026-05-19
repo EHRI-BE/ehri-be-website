@@ -1,6 +1,6 @@
 ---
 title: Een Belgische Nationale Holocaust Onderzoeksinfrastructuur opzetten
-description: Welcome to the Belgian Holocaust Research Infrastructure
+#description: Welcome to the Belgian Holocaust Research Infrastructure
 linkTitle: Home
 
 ---

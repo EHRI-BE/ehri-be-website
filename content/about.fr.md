@@ -5,7 +5,7 @@ type: about
 
 {{< intro >}}
 {{< /intro >}}
-Après ses débuts en 2010 et son évolution au sein de plusieurs projets financés par l’Union européenne, l’[EHRI](https://www.ehri-project.eu) s’établit aujourd’hui en tant qu’infrastructure de recherche composite permanente. Les principaux établissements de recherche, d’enseignement et de commémoration de l’Holocauste de plusieurs pays, répartis sur trois continents, se réuniront sous une même entité juridique afin de poursuivre leur mission consistant à rassembler des sources largement dispersées en connectant les informations, les institutions et les personnes.
+L'[Infrastructure européenne de recherche sur l'Holocauste (EHRI)]( https://www.ehri-project.eu/about-ehri/) a été lancée en 2010 et s'est développée au fil de plusieurs projets financés par l'Union européenne. En janvier 2025, l'EHRI a été inaugurée en tant que Consortium pour une infrastructure européenne de recherche permanente : l'EHRI-ERIC. Les principaux établissements de recherche, d'enseignement et de commémoration de l'Holocauste des dix pays membres fondateurs se sont réunis au sein d'une seule entité juridique afin de poursuivre leur mission consistant à rassembler des sources largement dispersées en mettant en relation informations, institutions et personnes.
 
 L’unité nationale belge de l’EHRI (l’EHRI-BE) soutient les objectifs généraux de l’EHRI en menant des activités de recherche, de commémoration et d’éducation pertinentes pour la Belgique, tout en tenant compte des particularités régionales et en promouvant la recherche transnationale.
 

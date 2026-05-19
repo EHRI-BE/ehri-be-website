@@ -14,5 +14,5 @@ These are our current partners (EHRI-PP and EHRI-3), located in 17 different cou
 
 EHRI-BE bringt Experten für Holocaust-Forschung, archivarische Quellen sowie digitale und KI-Tools aus Universitäten, Forschungszentren, Museen, Bildungseinrichtungen, Archiven und Bibliotheken zusammen.
 
-EHRI-BE hat neun Partner, und seine Aktivitäten werden von Kazerne Dossin und dem Belgischen  Staatsarchiv/CegeSoma koordiniert
+Das EHRI-BE-Konsortium besteht aus mehr als einem Dutzend Partnern; seine Aktivitäten werden von der Kazerne Dossin und dem Belgischen Staatsarchiv/CegeSoma koordiniert.
 

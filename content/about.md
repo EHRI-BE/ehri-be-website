@@ -5,7 +5,7 @@ type: about
 
 {{< intro >}}
 {{< /intro >}}
-The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu), which was launched in 2010 and has evolved over the course of several EU-funded projects, is working towards establishing itself as a permanent distributed research infrastructure. Leading Holocaust research, education, and commemorative institutions from more than 20 countries, spread across three continents, will come together under one legal entity to continue their mission of bringing together widely dispersed sources by connecting information, institutions and people.
+The [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/about-ehri/) was launched in 2010 and has evolved over the course of several EU-funded projects. In January 2025, EHRI was inaugurated as a permanent European Research Infrastructure Consortium: EHRI-ERIC. Leading Holocaust research, education, and commemorative institutions from the ten founding member countries have come together under one legal entity to continue their mission of bringing together widely dispersed sources by connecting information, institutions and people.
 
 The EHRI Belgium National Node (EHRI-BE) supports EHRI’s overarching aims by carrying out research, remembrance and educational activities that are relevant to Belgium while also taking into account regional particularities and promoting transnational research. 
 
