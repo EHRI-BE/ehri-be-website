@@ -36,16 +36,11 @@ params:
     - name: EHRI is funded by the European Commission
       logo: 'eu-logo.svg'
       url: 'https://ec.europa.eu/info/departments/research-and-innovation_en'
-  meta:
-    title: "EHRI-BE"
-    image: images/ehri-logo-large.png
-    description: >-
-      EHRI-BE is the national node representing Belgium within the European Holocaust Research Infrastructure (EHRI), composed of different institutions located in Belgium with expertise in Holocaust documentation, research, commemoration and education at the different levels of the Belgian federal state.
-
+  
   # Site metadata for social media cards and search engines.
   meta:
     # `title` is full the name of the site.
-    title: "EHRI-UK | The UK National Holocaust Research Infrastructure"
+    title: "EHRI-BE"
 
     # `image` is a reference to an image in the `static/` folder
     # that will be used to generate previews for social media sites.
@@ -53,8 +48,7 @@ params:
 
     # `description` should be a short summary of the site.
     description: >-
-      EHRI-UK is the UK national node of the European Holocaust Research Infrastructure (EHRI),
-      a European Union funded project which is a permanent pan-European organisation.
+      EHRI-BE is the national node representing Belgium within the European Holocaust Research Infrastructure (EHRI), composed of different institutions located in Belgium with expertise in Holocaust documentation, research, commemoration and education at the different levels of the Belgian federal state.
 
 markup:
   # Configure syntax highlighting for the examples on the `training` page
