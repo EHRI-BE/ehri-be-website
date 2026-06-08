@@ -3,7 +3,7 @@ title: EHRI-BE now on LinkedIn and Facebook
 linkTitle: EHRI-BE now on LinkedIn and Facebook
 date: 2026-06-01
 summary: |
-  Follow us on LinkedIn and Twitter!
+  Follow us on LinkedIn and Facebook!
 ---
 
 Follow us on [LinkedIn](http://linkedin.com/company/ehri-be) and [Facebook](https://www.facebook.com/profile.php?id=61589786834227)!
