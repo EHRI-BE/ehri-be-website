@@ -94,3 +94,9 @@ newsletter_url:
 
 subscribe_newsletter_header:
   other: Subscribe to our mailing list
+
+newsletter_privacy_text:
+  other: |
+    **Mailing list privacy statement:** The European Holocaust Research Infrastructure’s Belgian national node (EHRI-BE) will only use the personal data you provide in this form to send you the EHRI-BE newsletter and other relevant updates about EHRI-BE activities and events. You may unsubscribe from the mailing list at any time by clicking the unsubscribe link in the footer of any email you receive from us or by contacting us at the following email address: info@ehri.be. 
+    
+    **Marketing platform disclaimer:** We use Flexmail as our marketing platform. By subscribing to EHRI-BE’s mailing list, you acknowledge that that your information will be transferred to Flexmail for processing. To learn more about Flexmail’s privacy practices, click [here](https://flexmail.be/en/privacy-policy/).
