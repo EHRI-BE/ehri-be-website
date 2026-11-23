@@ -83,3 +83,9 @@ contact_thanks:
 
 contact_back:
   other: Retourner au formulaire
+
+newsletter_url:
+  other: https://return.flexmail.eu/page/opt-in-form/eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJzdWIiOiJyZXR1cm4vb3B0LWluIiwiaWF0IjoxNzk0OTkyOTczLjA3ODkyOSwiYWlkIjo4NTA0OSwib3B0ZnBrIjoiNGQ5NzJmNjcyNDhiNDc1OWEwYTRmZTZlMDRjNGNlMWEwOTQ4In0.fwRymI-ZamKTgBRl_6wQGB_vloNkkYOEhWTFUYUZgy4wL5pPCJ0W58u--7h3hl50e8G1j-qGVm_CReXsdpf6Bg
+
+subscribe_newsletter_header:
+  other: Inscrivez-vous à notre liste de diffusion
