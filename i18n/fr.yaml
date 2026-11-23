@@ -83,3 +83,15 @@ contact_thanks:
 
 contact_back:
   other: Retourner au formulaire
+
+newsletter_url:
+  other: https://return.flexmail.eu/page/opt-in-form/eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJzdWIiOiJyZXR1cm4vb3B0LWluIiwiaWF0IjoxNzk0OTkyOTczLjA3ODkyOSwiYWlkIjo4NTA0OSwib3B0ZnBrIjoiNGQ5NzJmNjcyNDhiNDc1OWEwYTRmZTZlMDRjNGNlMWEwOTQ4In0.fwRymI-ZamKTgBRl_6wQGB_vloNkkYOEhWTFUYUZgy4wL5pPCJ0W58u--7h3hl50e8G1j-qGVm_CReXsdpf6Bg
+
+subscribe_newsletter_header:
+  other: Inscrivez-vous à notre liste de diffusion
+
+newsletter_privacy_text:
+  other: |
+    **Déclaration de confidentialité relative à la liste de diffusion :** L’unité nationale belge de l’Infrastructure européenne de recherche sur l’Holocauste (EHRI-BE) utilisera les données à caractère personnel que vous fournissez dans ce formulaire uniquement pour vous envoyer la lettre d’information de l’EHRI-BE ainsi que d’autres informations pertinentes sur ses activités et événements. Vous pouvez vous désinscrire de la liste de diffusion à tout moment en cliquant sur le lien de désinscription figurant en bas de chaque e-mail que vous recevez de notre part ou en nous contactant à l’adresse suivante : info@ehri.be. 
+    
+    **Mention relative à la plateforme marketing :** Nous utilisons Flexmail comme plateforme marketing. En vous inscrivant à la liste de diffusion de l’EHRI-BE, vous acceptez que vos informations soient transmises à Flexmail à des fins de traitement. Pour en savoir plus sur les pratiques de Flexmail en matière de confidentialité, cliquez [ici](https://flexmail.be/fr/politique-de-confidentialite/).

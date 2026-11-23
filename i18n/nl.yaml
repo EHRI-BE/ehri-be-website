@@ -88,3 +88,15 @@ contact_thanks:
 
 contact_back:
   other: Ga terug naar het formulier
+
+newsletter_url:
+  other: https://return.flexmail.eu/page/opt-in-form/eyJ0eXAiOiJKV1QiLCJhbGciOiJFZERTQSJ9.eyJzdWIiOiJyZXR1cm4vb3B0LWluIiwiaWF0IjoxNzk1MDAzNjA5LjgwMTQ2NiwiYWlkIjo4NTA0OSwib3B0ZnBrIjoiMTIwMDMwNTNmMDNjNGZkZDkyMTRlNTYyZWQyYWExZTMwOTQ1In0.lziBs_7W-3-5DtIR8tzgdKY5OODBao5qu3U7CwoTOzlAB_77eTpoWpuHxLxe5xGdIiyCitenV8uYGuR6nGlUAg
+
+subscribe_newsletter_header:
+  other: Schrijf je in voor onze mailinglijst 
+
+newsletter_privacy_text:
+  other: |
+    **Privacyverklaring voor de mailinglijst:** De Belgische National Node van de European Holocaust Research Infrastructure (EHRI-BE) zal de persoonsgegevens die u in dit formulier verstrekt uitsluitend gebruiken om u de EHRI-BE-nieuwsbrief en andere relevante updates over de activiteiten en evenementen van EHRI-BE toe te sturen. U kunt zich op elk moment uitschrijven van de mailinglijst door op de link te klikken onderaan elke e-mail die u van ons ontvangt, of door contact met ons op te nemen via het volgende e-mailadres: info@ehri.be. 
+    
+    **Disclaimer marketingplatform:** Wij gebruiken Flexmail als ons marketingplatform. Door u in te schrijven op de mailinglijst van EHRI-BE, gaat u ermee akkoord dat uw gegevens worden doorgegeven aan Flexmail voor verwerking. Klik [hier](https://flexmail.be/privacy-policy/) voor meer informatie over het privacybeleid van Flexmail.
